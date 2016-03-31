@@ -13,4 +13,7 @@ There are index documents that I will try to figure out how to post in the repo.
 ## Cherry on top:
 It would be great for our researchers if this also included a "click to submit your request" function. This would require the user's name, email, phone number, and the address and box numbers being requested.
 ## Data problems to be aware of:
-1. In some cases, the last address in one box may come after the first address in the next box. (See, e.g., file for accession 351-85-0050. Box 3 ends with 1128 1st Street while box 4 begins with 1127 1st Street.)
+1. In some cases, the last address in one box may come after the first address in the next box. (See, e.g., file for accession 351-85-0050. Box 3 ends with 1128 1st Street while box 4 begins with 1127 1st Street.) (Desired result: both boxes are listed in output.)
+2. In some cases, permits for a single address may be continued in a second box. (Desired result: both boxes are listed in output.)
+3. Addresses may fall between the last address in one box and the first address in the next. (Desired result: no box is listed in output.)
+4. "Half Street" is categorized as a numbered street (1st, 2nd, etc.) but written as a named street (that is, not "1/2 Street").
