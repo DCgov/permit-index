@@ -17,3 +17,4 @@ It would be great for our researchers if this also included a "click to submit y
 2. In some cases, permits for a single address may be continued in a second box. (Desired result: both boxes are listed in output.)
 3. Addresses may fall between the last address in one box and the first address in the next. (Desired result: no box is listed in output.)
 4. "Half Street" is categorized as a numbered street (1st, 2nd, etc.) but written as a named street (that is, not "1/2 Street").
+5. Letter street names: individuals might enter them with quotation marks (e.g. 519 "I" Street) or spelled out (e.g. 519 Eye Street), or they might be spelled out in the index (Eye, Que) which could mess with the alphabetization.
