@@ -1,0 +1,40 @@
+{
+  "name": "DC Building Permit Index",
+  "status": "Ideation",
+  "contact": {
+    "name": "Rebecca Katz",
+    "email": "rebecca.katz@dc.gov"
+  },
+  "partners": [
+    {
+      "name": "Code for DC",
+      "url": "https://twitter.com/CodeforDC"
+    }
+    {
+      "name": "Office of Public Records",
+      "url": "http://os.dc.gov/node/26142"
+    }
+  ],
+  "description": "The DC Building Permit Index will take a historical or current DC address and return the address's corresponding archival box home. One can then go to the Office of Public Records and have them retrieve filed building permits.",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/DCgov/permit-index",
+  "geography": [
+    "district of columbia",
+    "washington, dc",
+    "washington, d.c.",
+    "washington, district of columbia",
+    "washington",
+    "DC",
+    "D.C."
+  ],
+  "data": [],
+  "tags": [
+    "buildings",
+    "permits"
+  ],
+  "links": [
+    "http://opendata.dc.gov/",
+    "http://octo.dc.gov/service/open-data"
+  ],
+  "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
+}
