@@ -19,13 +19,7 @@
   "license": "CC0-1.0",
   "repository": "https://github.com/DCgov/permit-index",
   "geography": [
-    "district of columbia",
-    "washington, dc",
-    "washington, d.c.",
-    "washington, district of columbia",
-    "washington",
-    "DC",
-    "D.C."
+    "district of columbia"
   ],
   "data": [],
   "tags": [
